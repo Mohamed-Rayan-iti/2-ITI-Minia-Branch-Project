@@ -1,0 +1,154 @@
+#about-container {
+	padding-top: 6%;
+}
+
+.switch {
+	position: relative;
+	display: inline-block;
+	width: 60px;
+	height: 34px;
+}
+
+.slider {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #ccc;
+	-webkit-transition: .4s;
+	transition: .4s;
+}
+
+.slider:before {
+	position: absolute;
+	content: "";
+	height: 26px;
+	width: 26px;
+	left: 4px;
+	bottom: 4px;
+	background-color: white;
+	-webkit-transition: .4s;
+	transition: .4s;
+}
+
+input:checked+.slider {
+	background-color: #2196F3;
+}
+
+input:focus+.slider {
+	box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked+.slider:before {
+	-webkit-transform: translateX(26px);
+	-ms-transform: translateX(26px);
+	transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+	border-radius: 34px;
+}
+
+.slider.round:before {
+	border-radius: 50%;
+}
+
+/* width */
+::-webkit-scrollbar {
+	width: 20px;
+
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px rgb(68, 36, 36);
+	border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb {
+	background: #0d0672;
+	border-radius: 50px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #b30000;
+}
+
+#about-container {
+	width: 100%;
+}
+
+#about-row1 {
+	background-color: #F9F7F7;
+	text-align: center;
+	border-bottom: burlywood 3px solid;
+}
+
+#about-row1 h3 {
+	color: rgb(134, 71, 71);
+	text-align: center;
+}
+
+#about-row1 p {
+	color: black;
+}
+
+#about-row2 {
+	border-bottom: burlywood 3px solid;
+	margin-bottom: 20px;
+}
+
+#about-row2 h5 {
+	color: brown;
+}
+
+#about-row2 h3 {
+	color: black;
+}
+
+#about-row3 {
+	text-align: center;
+	background-color: #F4F4F4;
+	padding: 10px;
+	border-bottom: burlywood 3px solid;
+
+
+}
+
+#about-row4 {
+	border-bottom: burlywood 3px solid;
+	padding-top: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#about-row4 p {
+	text-align: justify;
+}
+
+#about-row5 {
+	background-color: #F4F4F4;
+	padding-top: 10px;
+	border-bottom: burlywood 3px solid;
+
+}
+
+
+.founders-img {
+	float: left;
+	padding: 5px;
+	width: 70px;
+	height: 70px;
+
+}
+
+@media (max-width:768px) {
+	#about-container {
+		padding-top: 17%;
+	}
+}

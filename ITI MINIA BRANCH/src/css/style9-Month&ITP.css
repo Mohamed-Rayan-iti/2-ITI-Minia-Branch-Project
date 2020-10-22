@@ -1,0 +1,152 @@
+/* ========= Rayan ======== */
+.bg-Color {
+    background-color: #5B0D0D;
+}
+
+.font-Color-dark {
+    color: #5B0D0D;
+}
+
+.font-Color {
+    color: #800000;
+}
+
+/* 9-Month Page */
+.main .page-header {
+    background-color: #F9F7F7;
+    border-bottom: .5vh solid #800000;
+}
+
+.main .page-header h1,
+.main .page-header .p-header {
+    color: #5b0d0d;
+}
+
+.main .page-header h1 {
+    text-transform: capitalize;
+}
+
+.main .page-header .p-header {
+    font-size: 16px;
+}
+
+/* Master-Opportunities */
+.Master-Opportunities .Master-Opportunities-city {
+    margin-top: -4%;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.main .Master-Opportunities .container .Master-Opportunities-row .Master-Opportunities-hover a {
+    background-color: transparent;
+}
+
+.main .Master-Opportunities .container .Master-Opportunities-row .Master-Opportunities-hover a:hover {
+    background-color: rgb(255, 255, 255, .50) !important;
+}
+
+/* tracks */
+.main .tracks {
+    background: #E9F0F4;
+}
+
+.main .tracks .track-field header {
+    height: 8vh;
+}
+
+.main .tracks .track-field header h4 {
+    font-size: 120%;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.main .tracks .track-field ul {
+    color: #9eb2c0;
+    border: 2px solid #343A40;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.main .tracks .track-field ul li {
+    margin-bottom: .6rem;
+}
+
+.main .tracks .track-field ul .track-inside {
+    list-style-type: circle;
+}
+
+.main .tracks .track-field ul li a {
+    color: #4E6576;
+}
+
+.main .tracks .track-field ul li a:hover {
+    color: #9eb2c0;
+}
+
+/* our team aside */
+.main .Our-Team .our-team-department .our-team-department-item {
+    border-bottom: 3px solid #800000;
+    border-radius: 20px;
+    font-size: 90%;
+}
+
+.main .Our-Team .our-team-department .our-team-department-item:hover {
+    border-bottom: 4px solid #800000;
+    border-right: 4px solid #800000;
+}
+
+.main .Our-Team .our-team-department .our-team-department-item:hover i {
+    color: #810;
+    font-size: 102%;
+}
+
+.main .Our-Team .our-team-department .our-team-department-item:hover span {
+    color: #5B0D0D;
+    font-weight: 620;
+}
+
+.btn-color {
+    background-color: #5B0D0D;
+}
+
+.btn-color:hover {
+    background-color: #800000;
+}
+
+.main .Our-Team .our-team-persons .our-team-person-info section i {
+    font-size: xx-large;
+}
+
+.main .Our-Team .our-team-persons .our-team-person-info {
+    height: 95%;
+}
+
+
+
+
+
+/* end 9-Month Page */
+
+/* ITP Page */
+.main .goals-target .goals-target-right .icon i,
+.main .goals-target .goals-target-left .icon i {
+    font-size: 150%;
+}
+
+
+.main .target-segments .target-field header {
+    height: 8vh;
+}
+
+.main .target-segments .target-field .target-field-info {
+    height: 25vh;
+    border: 2px solid #800000;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+
+.main .target-segments .target-field .target-field-info img {
+    height: 8vh;
+}

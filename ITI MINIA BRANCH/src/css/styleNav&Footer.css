@@ -1,0 +1,179 @@
+/*start header*/
+
+.col-md-11 .navbar-right {
+    margin-left: 50%;
+}
+
+.fixed-top {
+    background-color: #5B0D0D;
+}
+
+.navbar-d img {
+
+    max-width: 200px;
+    max-width: 261px;
+    max-height: 70px;
+    line-height: 40px;
+    padding: 3px 0;
+
+}
+
+header ul li {
+    margin-right: 16px;
+    padding: 3px;
+    transition: .3s;
+}
+
+header ul li a {
+    color: #fff;
+    text-transform: uppercase;
+    padding-bottom: 19px;
+    padding-top: 15px;
+}
+
+header .activee {
+    background-color: #800000;
+    border-radius: 8px;
+}
+
+header ul li:hover {
+    background-color: #800000;
+    border-radius: 8px;
+    transform: scale(1.05);
+}
+
+#dropdown-menu-ul {
+    background-color: #8000;
+    width: 200px;
+}
+
+#dropdown-menu-ul li {
+    background-color: #5B0D0D;
+    font-family: auto;
+}
+
+#dropdown-menu-ul li a {
+
+    transform: scale(1.05);
+    padding: 5px;
+    text-transform: lowercase;
+    text-decoration-line: none;
+
+}
+
+header ul li:hover a {
+    color: #fff;
+}
+
+.nav-link {
+    display: block;
+    padding: 1.13rem 1rem;
+    font-size: 14px;
+}
+
+/*end header*/
+
+footer {
+    color: #fff;
+    background-color: #383f48;
+    margin: 0;
+    padding: 0;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    margin-bottom: 20px;
+    color: #ddd;
+}
+
+footer input {
+    outline: none;
+    padding: 7px 0;
+    border-radius: 3px;
+}
+
+footer li h4 {
+    font-size: 21px;
+    font-weight: 100;
+}
+
+footer input {
+    color: #000;
+}
+
+footer img:hover {
+    transform: scale(1.05);
+    opacity: .8;
+    border-radius: 12px;
+}
+
+.Follow i {
+    font-size: 24px;
+    color: #fff;
+    padding: 10px;
+}
+
+.Follow .fa-facebook:hover {
+    color: blue;
+}
+
+.Follow .fa-twitter-square:hover {
+    color: cyan;
+
+}
+
+.Follow .fa-youtube-square:hover {
+    color: red;
+
+}
+
+.Newsletter {
+    padding: 3% 0;
+}
+
+.copy-write {
+    text-align: center;
+    background-color: #2d323a;
+    padding: 20px 0;
+}
+
+
+
+
+@media (max-width:768px) {
+    .col-md-11 .navbar-right {
+        margin: 0;
+
+    }
+
+    .navbar-d img {
+        display: none;
+    }
+
+    .navbar-d .show_img_in_sm {
+        display: block;
+
+        min-width: 38px;
+    }
+
+    footer {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    footer input {
+        width: 100%;
+        margin-top: 1%;
+        color: #000;
+    }
+
+}
+
+@media(min-width:769px) {
+    .navbar-d .show_img_in_sm {
+        display: none;
+    }
+}

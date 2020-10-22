@@ -1,0 +1,491 @@
+[{
+        "Person": {
+            "Departemnt": "EBusiness",
+            "image": "PersonalImage(0).png",
+            "Name": "Ahmed Adel Domairy",
+            "Job": "EBusiness Technologies Department Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+        "Person": {
+            "Departemnt": "EBusiness",
+            "image": "PersonalImage(1).png",
+            "Name": "Basma Salah abd elmonsef",
+            "Job": "EBusiness Department Deputy",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a><a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+    {
+        "Person": {
+            "Departemnt": "EBusiness",
+            "image": "PersonalImage(2).png",
+            "Name": "Osama Ahmed Hassan",
+            "Job": "EBusiness Department Teaching Assistant",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+    {
+        "Person": {
+            "Departemnt": "EBusiness",
+            "image": "PersonalImage(3).png",
+            "Name": "Ahmed Zaghloul Hazaa",
+            "Job": "EBusiness Department Teaching Assistant",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+        "Person": {
+            "Departemnt": "EBusiness",
+            "image": "PersonalImage(4).png",
+            "Name": "Menna Tollah Hassan Shata",
+            "Job": "EBusiness Department Teaching Assistant",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+        "Person": {
+            "Departemnt": "EBusiness",
+            "image": "PersonalImage(5).png",
+            "Name": "Omnia Nour Gad ElRab",
+            "Job": "EBusiness Department Teaching Assistant",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+    {
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(6).png",
+            "Name": "Yasmine Naseh El Metwally Diab",
+            "Job": "SD & Gaming CoE Deputy & Technical Manager",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(7).png",
+            "Name": "Sherihan Mohamed Ahmed Abdrabou",
+            "Job": "SD & Gaming CoE Training Manager",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(8).png",
+            "Name": "Niveen Nasr ElDen ElNasser Morsi",
+            "Job": "Senior Teaching Assistant, SD & Gaming CoE",
+            "links": "<a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(9).png",
+            "Name": "Rami Mohamed Mohamed Elsayed",
+            "Job": "Senior Teaching Assistant, SD & Gaming CoE",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(10).png",
+            "Name": "Hany Safwat Labib",
+            "Job": "SD & Gaming CoE Director",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(11).png",
+            "Name": "Rana Mohamed Naguib",
+            "Job": "Teaching Assistant, SD & Gaming CoE",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+    {
+
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(12).png",
+            "Name": "Omar AbdElzaher Elsayed",
+            "Job": "Teaching Assistant, SD & Gaming CoE",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+    {
+
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(13).png",
+            "Name": "Mohamed Nasser Hosni Farg",
+            "Job": "Teaching Assistant, SD & Gaming CoE",
+            "links": "<a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(14).png",
+            "Name": "Nader Medhat Albert",
+            "Job": "Teaching Assistant, SD & Gaming CoE",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "GamingCenter",
+            "image": "PersonalImage(15).png",
+            "Name": "Wessam Abdelkhalek Abass Abdelaziz",
+            "Job": "Teaching Assistant, SD & Gaming CoE",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "JETS",
+            "image": "PersonalImage(16).png",
+            "Name": "Eman Hesham Hassan",
+            "Job": "JETS Executive Manager",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "JETS",
+            "image": "PersonalImage(17).png",
+            "Name": "Esraa Eid Awad Hassan",
+            "Job": "Teaching Assistant, JETS",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "JETS",
+            "image": "PersonalImage(18).png",
+            "Name": "Mona Mahrous Mohammed",
+            "Job": "Teaching Assistant, JETS",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+
+        "Person": {
+            "Departemnt": "JETS",
+            "image": "PersonalImage(19).png",
+            "Name": "Passant Ahmed Ali",
+            "Job": "Teaching Assistant, JETS",
+            "links": "<a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+
+        "Person": {
+            "Departemnt": "JETS",
+            "image": "PersonalImage(20).png",
+            "Name": "Mohsen Mahmoud Ahmed Mohamed Diab",
+            "Job": "JETS Acting Director",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a>"
+        }
+    },
+
+    {
+
+        "Person": {
+            "Departemnt": "JETS",
+            "image": "PersonalImage(21).png",
+            "Name": "Ahmed Mohamed Husein Mazen",
+            "Job": "JETS Marketing Manager",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+
+        "Person": {
+            "Departemnt": "JETS",
+            "image": "PersonalImage(22).png",
+            "Name": "Ahmed Medhat Yousif",
+            "Job": "Technical Manager Assistant, JETS",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "ELearning",
+            "image": "PersonalImage(23).png",
+            "Name": "Ahmed Mohamed Fekry",
+            "Job": "eLica CoE Director",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+
+        "Person": {
+            "Departemnt": "ELearning",
+            "image": "PersonalImage(24).png",
+            "Name": "Moheb Gamal Tawfik",
+            "Job": "Teaching Assistant, eLica",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a>"
+        }
+    },
+
+    {
+
+        "Person": {
+            "Departemnt": "ELearning",
+            "image": "PersonalImage(25).png",
+            "Name": "marwa mahmoud mubarak",
+            "Job": "Teaching Assistant, eLica",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+
+        "Person": {
+            "Departemnt": "ELearning",
+            "image": "PersonalImage(26).png",
+            "Name": "Mushera samy elsawy",
+            "Job": "Graphic Designer / Flash Animator, eLica",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "Infrastructure",
+            "image": "PersonalImage(27).png",
+            "Name": "rania elsayed mohamdy",
+            "Job": "Infrastructure Department Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+
+        "Person": {
+            "Departemnt": "Infrastructure",
+            "image": "PersonalImage(28).png",
+            "Name": "Marian Fayez Lamey",
+            "Job": "Teaching Assistant, Infrastructure",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+
+        "Person": {
+            "Departemnt": "Infrastructure",
+            "image": "PersonalImage(29).png",
+            "Name": "Tarek Mohamed Youssef El Baz",
+            "Job": "Teaching Assistant, Infrastructure",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "ERP",
+            "image": "PersonalImage(30).png",
+            "Name": "Salma Mamdouh Ahmed",
+            "Job": "ERP & Data Science Department Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "ERP",
+            "image": "PersonalImage(31).png",
+            "Name": "Rana Salah Dahish",
+            "Job": "Teaching Assistant, ERP & Data Science",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "ERP",
+            "image": "PersonalImage(32).png",
+            "Name": "Heba Abu Baker Mohamed",
+            "Job": "Teaching Assistant, ERP & Data Science",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "ERP",
+            "image": "PersonalImage(33).png",
+            "Name": "sarah gamal eldin mohamed",
+            "Job": "ERP & Data Science Department Deputy",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "OpenSource",
+            "image": "PersonalImage(34).png",
+            "Name": "Sherine Mahmoud Bahader",
+            "Job": "Open Source Department Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "OpenSource",
+            "image": "PersonalImage(35).png",
+            "Name": "shaimaa nabil kamal ahmed hussin",
+            "Job": "Teaching Assistant, Open Source",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a><a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "OpenSource",
+            "image": "PersonalImage(36).png",
+            "Name": "FatmaKhaled Osman Galal",
+            "Job": "Teaching Assistant, Open Source",
+            "links": "<a class='btn'><i class='fab fa-facebook font-Color'></i></a><a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "OpenSource",
+            "image": "PersonalImage(37).png",
+            "Name": "Mohamed Ibrahim ElSabagh",
+            "Job": "Teaching Assistant, Open Source",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "DigitalArt",
+            "image": "PersonalImage(38).png",
+            "Name": "Ahmed Kamal Elsheikh",
+            "Job": "Digital Art & Design Department Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "GIS",
+            "image": "PersonalImage(39).png",
+            "Name": "Ahmed Ibrahim Rashad",
+            "Job": "GIS Department Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "Mechatronics",
+            "image": "PersonalImage(40).png",
+            "Name": "Asmaa Afifi Sayed Dawood",
+            "Job": "Mechatronics Department Staff",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "Mechatronics",
+            "image": "PersonalImage(41).png",
+            "Name": "George Hany Fekry Iskander",
+            "Job": "Mechatronics Department Staff",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "Mechatronics",
+            "image": "PersonalImage(47).png",
+            "Name": "Mostafa Ahmad Mohammad Hassanin",
+            "Job": "Mechatronics Department Staff",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "Embedded",
+            "image": "PersonalImage(42).png",
+            "Name": "Ahmed Mohamed Said ALAshmawy",
+            "Job": "Embedded Systems Department Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "CivilEngineering",
+            "image": "PersonalImage(43).png",
+            "Name": "Ahmed Mohy El Din",
+            "Job": "CEI Department Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+
+    {
+        "Person": {
+            "Departemnt": "QA",
+            "image": "PersonalImage(44).png",
+            "Name": "Amany Mohammed Shousha",
+            "Job": "QA Department Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    
+    {
+        "Person": {
+            "Departemnt": "MiniaStaff",
+            "image": "PersonalImage(48).jpg",
+            "Name": "Ahmed Alaa Othman",
+            "Job": "Minia Bransh Head",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-github font-Color'></i></a>"
+        }
+    },
+    {
+        "Person": {
+            "Departemnt": "MiniaStaff",
+            "image": "PersonalImage(49).png",
+            "Name": "Mrihan Mohamed",
+            "Job": "Minia Bransh Tracks Supervisor",
+            "links": "<a class='btn'><i class='fab fa-linkedin font-Color'></i></a><a class='btn'><i class='fab fa-facebook font-Color'></i></a>"
+        }
+    },
+    {
+        "Person": {
+            "Departemnt": "MiniaStaff",
+            "image": "PersonalImage(50).jpg",
+            "Name": "Sara Salah",
+            "Job": "instructor frontend & backend",
+            "links": "<a class='btn'><i class='fab fa-github font-Color'></i></a><a class='btn'><i class='fab fa-linkedin font-Color'></i></a>"
+        }
+    }
+
+]

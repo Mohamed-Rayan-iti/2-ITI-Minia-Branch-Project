@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tracks Chart</title>
+	<link rel="shortcut icon" href="../src/img/icon/itiFavicon.ico" type="image/x-icon">
+
+	<!-- Charts.JS Library CDN -->
+	<script src="../src/js/chart 2.8.0.js"></script>
+	<!-- BootStrap Pacakges CDNs -->
+	<link rel="stylesheet" href="../src/css/bootstrap.min.css">
+    <script src="../src/js/jquery.min.js"></script>
+	<script src="../src/js/popper.min.js"></script>
+	<script src="../src/js/bootstrap.min.js"></script>
+	<style>
+		body {
+			background-image: url(../src/img/trackChart/background.gif);
+			background-repeat: no-repeat;
+			background-size: 100%;
+			height: 100%;
+			background-position: center;
+			background-size: cover;
+
+		}
+
+		h3 {
+			border: 3px solid rosybrown;
+			background-image: url(../src/img/trackChart/giphy.gif);
+			padding: 6px;
+			color: white;
+			font-style: italic;
+			margin-top: 7px;
+		}
+
+		h4 {
+			color: white;
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<div class="container-fluid">
+		<div class="row" id="about-row1">
+
+			<div class="col-md-4 col-sm-12 col-xs-12 mt-5 ">
+				<div class="p-2" style="background-color: #000F27; border: 3px solid rgb(11, 27, 42);">
+					<div>
+						<h3 style="text-align: center;"> .Net FullStack</h3>
+						<br>
+						<h4 style="text-align: center;"> Front-End </h4>
+						<br>
+						<canvas id="myChart"></canvas>
+						<br>
+						<h4 style="text-align: center;"> Back-End </h4>
+						<br>
+						<canvas id="myChart2"></canvas>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12 col-xs-12 mt-5 ">
+				<div class="p-2" style="background-color: #000F27; border: 3px solid rgb(11, 27, 42);">
+					<div>
+						<h3 style="text-align: center; display: block;"> IOT Track </h2>
+							<br>
+							<h4 style="text-align: center;"> Operating Systems
+						</h3>
+						<br>
+						<canvas id="myChart3"></canvas>
+						<br>
+						<h4 style="text-align: center;"> Embedded Systems </h3>
+							<br>
+							<canvas id="myChart4"></canvas>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-sm-12 col-xs-12 mt-5 ">
+				<div class="p-2" style="background-color: #000F27; border: 3px solid rgb(11, 27, 42);">
+					<div>
+						<h3 style="text-align: center;"> Marketing </h3>
+						<br>
+						<h4 style="text-align: center;"> Digital Marketing </h4>
+						<br>
+						<canvas id="myChart5" style="display: block;" style="width: 200px; height: 200px;"></canvas>
+						<br>
+						<h4 style="text-align: center;"> Online Branding </h4>
+						<br>
+						<canvas id="myChart6" style="display: block;" style="width: 200px; height: 200px;"></canvas>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<script>
+		// Scripts For Charts ..
+
+		var ctx = document.getElementById('myChart').getContext('2d');
+		var chart = new Chart(ctx, {
+			type: 'doughnut',
+			data: {
+				labels: ['HTML', 'CSS', 'JS', 'JSON', 'AJAX', 'BootStrap'],
+				datasets: [{
+					label: 'My First dataset',
+					backgroundColor: ['brown', 'black', 'white', '#3A0157', '#004FB4', 'red'],
+					borderColor: 'rgb(255, 99, 132)',
+					data: [15, 15, 30, 10, 10, 20],
+					hoverBackgroundColor: ['#fff', 'black', 'brown']
+
+				}]
+
+			},
+
+		});
+
+		var ctx = document.getElementById('myChart2').getContext('2d');
+		var chart = new Chart(ctx, {
+			type: 'doughnut',
+			data: {
+				labels: ['OOP', 'C#', 'MVC', 'SQL'],
+				datasets: [{
+					label: 'My First dataset',
+					backgroundColor: ['brown', 'black', 'white', '#3A0157'],
+					borderColor: 'rgb(255, 99, 132)',
+					data: [25, 25, 25, 25],
+					hoverBackgroundColor: ['#fff', 'black', 'brown']
+
+				}]
+
+			},
+
+		});
+
+		var ctx = document.getElementById('myChart3').getContext('2d');
+		var chart = new Chart(ctx, {
+			type: 'doughnut',
+			data: {
+				labels: ['Python', 'Red Hat', 'Push / Pull '],
+				datasets: [{
+					label: 'My First dataset',
+					backgroundColor: ['brown', 'black', 'white'],
+					borderColor: 'rgb(255, 99, 132)',
+					data: [40, 25, 35],
+					hoverBackgroundColor: ['#fff', 'black', 'brown'],
+
+				}]
+
+
+			},
+
+		});
+
+		var ctx = document.getElementById('myChart4').getContext('2d');
+		var chart = new Chart(ctx, {
+			type: 'doughnut',
+			data: {
+				labels: ['HW platforms', ' (RTOS)', 'Big Data'],
+				datasets: [{
+					label: 'My First dataset',
+					backgroundColor: ['brown', 'black', 'white'],
+					borderColor: 'rgb(255, 99, 132)',
+					data: [30, 55, 15],
+					hoverBackgroundColor: ['#fff', 'black', 'brown']
+
+				}]
+
+			},
+
+		});
+
+		var ctx = document.getElementById('myChart5').getContext('2d');
+		var chart = new Chart(ctx, {
+			type: 'doughnut',
+			data: {
+				labels: ['Hyper-local', 'Landing Optimization', 'Audio Search'],
+				datasets: [{
+					label: 'My First dataset',
+					backgroundColor: ['brown', 'black', 'white'],
+					borderColor: 'rgb(255, 99, 132)',
+					data: [60, 15, 25],
+					hoverBackgroundColor: ['#fff', 'black', 'brown']
+
+				}]
+
+			},
+
+		});
+
+		var ctx = document.getElementById('myChart6').getContext('2d');
+		var chart = new Chart(ctx, {
+			type: 'doughnut',
+			data: {
+				labels: ['Hyper-local', 'Landing Optimization', 'Audio Search'],
+				datasets: [{
+					label: 'My First dataset',
+					backgroundColor: ['brown', 'black', 'white'],
+					borderColor: 'rgb(255, 99, 132)',
+					data: [30, 35, 35],
+					hoverBackgroundColor: ['#fff', 'black', 'brown']
+
+				}]
+
+			},
+
+		});
+
+	</script>
+</body>
+
+</html>
